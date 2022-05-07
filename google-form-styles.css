@@ -1,0 +1,12 @@
+/*.center{
+    margin: auto;
+    width: 50%;
+    border: 3px transparent green;
+    padding: 10px;  
+}*/
+.center{
+    border: 5px transparent;
+display: flex;
+justify-content: center;
+vertical-align: center;
+}
